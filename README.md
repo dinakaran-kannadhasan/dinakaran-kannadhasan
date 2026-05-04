@@ -21,9 +21,9 @@ Currently at **AppViewX**, where I own technical direction across frontend, back
 | Project | What it does | Stack |
 |---|---|---|
 | [linkedin-mcp-server](https://github.com/dinakaran-kannadhasan/linkedin-mcp-server) | AI-powered LinkedIn automation for Claude — generate, score, publish and schedule posts | Node.js, MCP, OAuth |
-| [video-conferencing-app](https://github.com/dinakaran-kannadhasan/video-conferencing-app) | Zoom-style video conferencing with auth, scheduling, and recording | Next.js, TypeScript |
-| [zod-auth-starter](https://github.com/dinakaran-kannadhasan/zod-auth-starter) | Production-ready auth starter with full validation | Next.js, Zod, TypeScript |
 | [chatbot-platform](https://github.com/dinakaran-kannadhasan/chatbot-platform) | Conversational AI platform | TypeScript |
+| [video-conferencing-app](https://github.com/dinakaran-kannadhasan/video-conferencing-app) | Zoom-style video conferencing with auth, scheduling, and recording | Next.js, TypeScript |
+
 
 ---
 
