@@ -1,7 +1,7 @@
 # Hi, I'm Dinakaran 👋
 
 **Lead Software Engineer** with 11 years building cloud-native SaaS platforms.  
-I work across the full stack — React, Next.js, Node.js, TypeScript, AWS — and lead engineering teams shipping AI-powered products to global B2B customers.
+I work across the full stack - React, Next.js, Node.js, TypeScript, AWS, and lead engineering teams shipping AI-powered products to global B2B customers.
 
 Currently at **AppViewX**, where I own technical direction across frontend, backend, DevOps, and AI integration. Looking for **Senior / Lead Engineer roles in the UK or Europe** (Skilled Worker Visa sponsorship required).
 
